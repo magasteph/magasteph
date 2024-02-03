@@ -6,4 +6,4 @@
 
 ## Skills 💻
 
-### JAVASCRIPT / HTML / CSS
+### JavaScript / HTML / CSS
