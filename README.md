@@ -4,8 +4,7 @@
 
 ## Linguagens 💻
 
-### HTML5 | CSS3 | SQL 
-### Nível Acadêmico: Python | JavaScript | Java 
+### HTML5 | CSS3 | SQL | Nível Acadêmico: Python | JavaScript | Java 
 
 
 ## Ferramentas de visualização 📊
