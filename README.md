@@ -6,7 +6,7 @@
 ## Linguagens 💻
 
 ### HTML5 | CSS3 | SQL 
-Nível Acadêmico: Python | JavaScript | Java 
+### Nível Acadêmico: Python | JavaScript | Java 
 
 
 
