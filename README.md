@@ -15,10 +15,4 @@
 ### Excel | Power BI
 
 
-
-## Soft Skills
-
-### Comunicativa | Proativa | Habilidade em resoluções de problemas | Organizada
-
-
 ## Inglês : Intermediário
