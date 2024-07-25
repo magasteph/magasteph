@@ -1,17 +1,7 @@
 # Olá Pessoal 👋 
 ## Quem sou eu? 💓
-#### Estudante de Análise e Desenvolvimento de Sistemas e atualmente estou ampliando meu conhecimento em tecnologias. Estou aberta a oportunidades no campo da programação, pronta para enfrentar desafios, me conectar e explorar o universo da tecnologia.
+#### Estudante de Análise e Desenvolvimento de Sistemas com formação em Marketing, buscando estágio na área de
+tecnologia. Possuo conhecimento em HTML, CSS, SQL, e estou desenvolvendo habilidades em Java. Experiência
+prática em desenvolvimento de projetos acadêmicos e forte capacidade analítica.
+Almejo contribuir com minhas habilidades técnicas e interpessoais para o sucesso da empresa.
 
-
-## Linguagens 💻
-
-###  Java | C | Python | SQL |  
-
-
-
-## Ferramentas de visualização 📊
-
-### Excel | Power BI
-
-
-## Inglês : Intermediário
