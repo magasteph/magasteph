@@ -1,5 +1,5 @@
 # Oii, bem vindo (a)! 👋
-## Eu sou a Victoria Stephanne, estudante de ADS com experiência prática em desenvolvimento de projetos acadêmicos Front- End | Back - End e forte capacidade analítica.
+## Eu sou a Victoria, estudante de ADS com experiência prática em desenvolvimento de projetos acadêmicos Front- End | Back - End e forte capacidade analítica.
 
 # Aqui você vai encontrar projetos em:
 <div style="display: inline_block"><br>
